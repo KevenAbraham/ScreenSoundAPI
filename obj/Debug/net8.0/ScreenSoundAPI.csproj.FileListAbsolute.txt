@@ -12,3 +12,4 @@ C:\Users\abrah\OneDrive\Documentos\C#\Alura\ScreenSoundAPI\obj\Debug\net8.0\refi
 C:\Users\abrah\OneDrive\Documentos\C#\Alura\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.pdb
 C:\Users\abrah\OneDrive\Documentos\C#\Alura\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.genruntimeconfig.cache
 C:\Users\abrah\OneDrive\Documentos\C#\Alura\ScreenSoundAPI\obj\Debug\net8.0\ref\ScreenSoundAPI.dll
+C:\Users\abrah\OneDrive\Documentos\C#\Alura\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.sourcelink.json
